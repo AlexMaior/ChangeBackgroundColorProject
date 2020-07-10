@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.d{
+    width: 100%;
+    text-align: center;
+    padding-top:10%;
+}
+
+#btn{
+    font-size: 20px;
+    background-color: #232323;
+    color: seashell;
+    padding: 40px 15px;
+    border-radius: 15%;
+    outline: none;
+    transition: 0.5s;
+    border: 2px solid #232323;
+}
+
+#btn:hover{
+    color: red;
+    border: 2px solid red;
+    box-shadow: 0 0 15px red;
+}
+
+
+#para{
+    height: 40px;;
+    font-size: 200%;
+}
+
+#para2{
+    font-size: 200%;
+}
